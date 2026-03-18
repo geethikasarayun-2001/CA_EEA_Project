@@ -49,7 +49,7 @@ CA_EEA_Project/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/geethikasarayun-2001/CA_EEA_Project
-cd geetikaCA_EEA
+cd CA_EEA_Project
 ```
 
 ### 2. Create Virtual Environment
