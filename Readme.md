@@ -1,5 +1,5 @@
 # Modular Multi-Label Email Classification Architecture
-#
+
 **National College of Ireland**  
 **Engineering and Evaluating Artificial Intelligence (CA1)**  
 **Due Date:** 26th March 2026  
@@ -162,7 +162,7 @@ All parameters are managed in `src/Config.py`:
 
 ## Author
 
-**Student:** Geetika and kalayan  
+**Student:** Geethika Sarayu Neelam and Venkata Naga Sri Kalyn Somisetty  
 **Course:** Engineering and Evaluating Artificial Intelligence  
 **Institution:** National College of Ireland  
 **Due Date:** 26th March 2026
